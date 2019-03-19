@@ -1,0 +1,2 @@
+# Ntic
+GitHub Pages
